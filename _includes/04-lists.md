@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# My favourite restaurants in Santiago
+1. Numaru
+2. China Ming
+3. Entrepedras
